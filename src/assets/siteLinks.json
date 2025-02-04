@@ -5,9 +5,19 @@
     "link": "https://blog.raineko.net/"
   },
   {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://limestart.cn/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.raineko.net/"
+  },
+  {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.raineko.net/"
+    "name": "项目介绍",
+    "link": "https://project.raineko.net/"
   },
   {
     "icon": "CompactDisc",
@@ -15,23 +25,8 @@
     "link": "https://music.raineko.net/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.raineko.net/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.raineko.net/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.raineko.net/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.raineko.net/"
+    "icon": "Code",
+    "name": "实验性功能",
+    "link": "https://ex.raineko.net/"
   }
 ]
