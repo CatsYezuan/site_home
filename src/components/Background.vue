@@ -43,9 +43,10 @@ const changeBg = (type) => {
   } else if (type == 1) {
     bgUrl.value = "https://api.dujin.org/bing/1920.php";
   } else if (type == 2) {
-    bgUrl.value = "https://api.vvhan.com/api/wallpaper/views";
+    bgUrl.value = "https://drinkflower.asia/pic/?b&token="; // 备份 https://api.vvhan.com/api/wallpaper/views
   } else if (type == 3) {
-    bgUrl.value = "https://api.vvhan.com/api/wallpaper/acg";
+    bgUrl.value = "https://api.boxmoe.com/random.php"; // https://doc.boxmoe.com/img_api
+                                                       // 备份 https://api.vvhan.com/api/wallpaper/acg
   }
 };
 
