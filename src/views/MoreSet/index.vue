@@ -75,9 +75,9 @@ const siteUrl = computed(() => {
 // 更新日志
 const upData = reactive({
   new: [
-    "采用 Vue 进行重构",
+    "联动雨猫化学跳转链接",
   ],
-  fix: ["修复了移动端样式问题"],
+  fix: ["修复了天气，音乐加载API"],
 });
 
 // 跳转源代码仓库

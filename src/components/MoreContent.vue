@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">BakaWeather今夏上线哦~</div>
+  <div class="more-content">雨猫化学正式上线~</div>
 </template>
 
 <style lang="scss" scoped>
