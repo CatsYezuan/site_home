@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">雨猫化学正式上线~</div>
+  <div class="more-content">雨猫天气，与君同行~</div>
 </template>
 
 <style lang="scss" scoped>

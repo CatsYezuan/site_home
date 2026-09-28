@@ -16,8 +16,8 @@
   },
   {
     "icon": "Cloud",
-    "name": "项目介绍",
-    "link": "https://project.raineko.net/"
+    "name": "雨猫天气",
+    "link": "https://weather.raineko.net/"
   },
   {
     "icon": "CompactDisc",
@@ -26,7 +26,7 @@
   },
   {
     "icon": "Code",
-    "name": "实验性功能",
-    "link": "https://ex.raineko.net/"
+    "name": "EEW列表",
+    "link": "https://eewlist.raineko.net/"
   }
 ]
