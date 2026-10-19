@@ -41,7 +41,14 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img class="avatar" :src="friend.avatar" alt="" width="45" height="45" />
+            <img
+              class="avatar"
+              :class="{ 'avatar-logo': friend.logo }"
+              :src="friend.avatar"
+              alt=""
+              width="45"
+              height="45"
+            />
             <div class="friend-copy">
               <h3>{{ friend.name }}</h3>
               <p>{{ friend.description }}</p>
@@ -196,6 +203,7 @@ const closeOnBackdrop = (event) => {
   }
   .friends-list {
     display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 12px;
   }
   .friend {
@@ -221,6 +229,11 @@ const closeOnBackdrop = (event) => {
       flex-shrink: 0;
       border-radius: 50%;
       object-fit: cover;
+      &.avatar-logo {
+        background: transparent;
+        border-radius: 0;
+        object-fit: contain;
+      }
     }
     .friend-copy {
       min-width: 0;
@@ -259,6 +272,11 @@ const closeOnBackdrop = (event) => {
   }
   .friends-dialog .friends-panel {
     padding: 24px 20px;
+  }
+}
+@media (max-width: 600px) {
+  .friends-dialog .friends-list {
+    grid-template-columns: 1fr;
   }
 }
 @media (prefers-reduced-motion: reduce) {

@@ -4,5 +4,30 @@
     "description": "我們的存在無需許可，我們的名字無需解釋。",
     "url": "https://ttcctctc.top/",
     "avatar": "/images/friends/ttcctctc.jpg"
+  },
+  {
+    "name": "Bousai CN",
+    "description": "RCBS的网站",
+    "url": "https://bousai.cn/",
+    "avatar": "/images/friends/bousai.jpg"
+  },
+  {
+    "name": "夜曦的个人小站",
+    "description": "届ける言葉を今は育ててる",
+    "url": "https://yorushi.top/",
+    "avatar": "/images/friends/yorushi.jpg"
+  },
+  {
+    "name": "Amenatsu酱的小屋",
+    "description": "一直独自歌唱！",
+    "url": "https://rainsummer.top/",
+    "avatar": "/images/friends/rainsummer.webp"
+  },
+  {
+    "name": "Wolfx Project",
+    "description": "静かな技術で、確かな情報経路を。",
+    "url": "https://wolfx.jp/",
+    "avatar": "/images/friends/wolfx.png",
+    "logo": true
   }
 ]
