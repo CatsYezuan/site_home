@@ -9,6 +9,7 @@
     <Func />
     <!-- 网站链接 -->
     <Link />
+    <FriendLinks />
   </div>
 </template>
 
@@ -16,6 +17,7 @@
 import { mainStore } from "@/store";
 import Func from "@/views/Func/index.vue";
 import Link from "@/components/Links.vue";
+import FriendLinks from "@/components/FriendLinks.vue";
 const store = mainStore();
 
 // 站点链接
