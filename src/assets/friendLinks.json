@@ -29,5 +29,11 @@
     "url": "https://wolfx.jp/",
     "avatar": "/images/friends/wolfx.png",
     "logo": true
+  },
+  {
+    "name": "小淇的个人站",
+    "description": "这里是小淇喵呜的个人站",
+    "url": "https://xiaoqity.top/",
+    "avatar": "/images/friends/xiaoqi.jpg"
   }
 ]
